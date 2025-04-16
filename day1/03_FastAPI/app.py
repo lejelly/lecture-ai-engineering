@@ -14,7 +14,7 @@ from pyngrok import ngrok
 # --- 設定 ---
 # モデル名を設定
 #MODEL_NAME = "google/gemma-2-2b-jpn-it"
-MODEL_NAME = "microsoft/phi-1"
+MODEL_NAME = "microsoft/Phi-3-mini-128k-instruct"
 print(f"モデル名を設定: {MODEL_NAME}")
 
 # --- モデル設定クラス ---
